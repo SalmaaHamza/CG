@@ -432,48 +432,48 @@ The timer function is called by the main function.
 # Results
 - Drop menu
 
-![Drop menu](.\images\DropMenu.jpeg)
+![Drop menu](./images/DropMenu.jpeg)
 - Texture Mapping options.
 
-![Z Floor](.\images\ZFloor.jpeg)
+![Z Floor](./images/ZFloor.jpeg)
 
-![RedFloor](.\images\RedFloor.jpeg)
+![RedFloor](./images/RedFloor.jpeg)
 
 - Motions
 
 **1- Move dumbbell**
 
-![mov dumbbell 1](.\images\D1.jpeg) 
+![mov dumbbell 1](./images/D1.jpeg) 
 
-![mov dumbbell 2](.\images\D2.jpeg) 
+![mov dumbbell 2](./images/D2.jpeg) 
 
 **2-kick the ball**
 
-![kick 1](.\images\RedFloor.jpeg)
+![kick 1](./images/RedFloor.jpeg)
 
-![kick 2](.\images\RedFloor.jpeg)
+![kick 2](./images/RedFloor.jpeg)
 
 **3-walking**
 
-![walk 1](.\images\walk1.jpeg)
+![walk 1](./images/walk1.jpeg)
 
-![walk 2](.\images\walk2.jpeg)
+![walk 2](./images/walk2.jpeg)
 
-![walk 3](.\images\walk3.jpeg)
+![walk 3](./images/walk3.jpeg)
 
 - Animations
 
 *Kick the ball*
 
-![GIF1](.\Animations\GIF1.GIF)
+![GIF1](./Animations/GIF1.GIF)
 
 *Walking*
 
-![GIF2](.\Animations\GIF2.GIF)
+![GIF2](./Animations/GIF2.GIF)
 
 *Move dumpple*
 
-![GIF3](.\Animations\GIF3.GIF)
+![GIF3](./Animations/GIF3.GIF)
 
 
 ------------
