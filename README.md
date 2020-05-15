@@ -465,15 +465,15 @@ The timer function is called by the main function.
 
 *Kick the ball*
 
-![GIF1](./Animations/GIF1.GIF)
+![GIF1](./Animations/GIF1.gif)
 
 *Walking*
 
-![GIF2](./Animations/GIF2.GIF)
+![GIF2](./Animations/GIF2.gif)
 
 *Move dumpple*
 
-![GIF3](./Animations/GIF3.GIF)
+![GIF3](./Animations/GIF3.gif)
 
 
 ------------
