@@ -479,7 +479,7 @@ The timer function is called by the main function.
 ------------
 ## Application of this project in the Biomedical fields
 
-- we can use it in rehabiliation, This excersises can help the patients to know the way to do the exercises
+- we can use it in rehabiliation.
 
 ## Issues 
 
