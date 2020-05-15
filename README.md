@@ -449,9 +449,9 @@ The timer function is called by the main function.
 
 **2-kick the ball**
 
-![kick 1](./images/RedFloor.jpeg)
+![kick 1](./images/KickBall1.jpeg)
 
-![kick 2](./images/RedFloor.jpeg)
+![kick 2](./images/KickBall2.jpeg)
 
 **3-walking**
 
