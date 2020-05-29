@@ -17,7 +17,7 @@ we used 4 objects, Ball ,Football goal, dumbbell and Bench
 # Results
 ## - Drop menu
 
-Here we made two submenu,, One to choose the texture mapping acting on the floor and the other to choose the animation you want to dispaly 
+Here we made two submenu, One to choose the texture mapping acting on the floor and the other to choose the animation you want to display 
 ![Drop menu](./images/DropMenu.png)
 - Texture Mapping options.
 
@@ -29,7 +29,7 @@ Here we made two submenu,, One to choose the texture mapping acting on the floor
 
 **2- This is when we choose Grass**
 
-![Z Floor](./images/GrassFloor.png)
+![Grass Floor](./images/GrassFloor.png)
 
 **3- This is when we choose Red**
 
@@ -79,7 +79,7 @@ Here we made two submenu,, One to choose the texture mapping acting on the floor
 ------------
 ## Application of this project in the Biomedical fields
 
-- we can use it in rehabiliation.
+- we can use it in rehabilitation.
 
 ## Issues 
 
