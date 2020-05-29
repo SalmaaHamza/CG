@@ -3,11 +3,11 @@
 
                                     Team Members 
                     
-        Alaa Gamal                  SEC: 1 BN:          Email: 
+        Alaa Gamal                  SEC: 1 BN:          Email: alaagamal.98@gmail.com
                             
         Salma Hamza                 SEC: 1 BN: 38       Email: salmahamza108@gmail.com
         
-        Marwa Adel                  SEC:  BN:           Email: 
+        Marwa Adel                  SEC:  BN:           Email: marwaayosiif@gmail.com
 
 ---
 <!-- # Description  -->
@@ -35,6 +35,22 @@ Here we made two submenu,, One to choose the texture mapping acting on the floor
 
 ![RedFloor](./images/RedFloor.jpeg)
 
+## - Animations
+
+![Drop menu for animation](./images/DropMenuAnimation.png)
+
+**1- Kick the ball**
+
+![GIF1](./Animations/GIF1.gif)
+
+**3- Walking**
+
+![GIF2](./Animations/GIF2.gif)
+
+**2- Move dumpple**
+
+![GIF3](./Animations/GIF3.gif)
+
 ## - Motions
 
 **1- Move dumbbell**
@@ -57,19 +73,7 @@ Here we made two submenu,, One to choose the texture mapping acting on the floor
 
 ![walk 3](./images/walk3.jpeg)
 
-## - Animations
 
-**1- Kick the ball**
-
-![GIF1](./Animations/GIF1.gif)
-
-**3- Walking**
-
-![GIF2](./Animations/GIF2.gif)
-
-**2- Move dumpple**
-
-![GIF3](./Animations/GIF3.gif)
 
 
 ------------
