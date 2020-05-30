@@ -38,8 +38,21 @@ Here we made two submenu, One to choose the texture mapping acting on the floor 
 
 ![RedFloor](./images/RedFloor.jpeg)
 
+## - Animations
 
 ![Drop menu for animation](./images/DropMenuAnimation.jpeg)
+
+**1- Kick the ball**
+
+![GIF1](./Animations/GIF1.gif)
+
+**3- Walking**
+
+![GIF2](./Animations/GIF2.gif)
+
+**2- Move dumpple**
+
+![GIF3](./Animations/GIF3.gif)
 
 ## - Motions
 
